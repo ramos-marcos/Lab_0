@@ -1,0 +1,24 @@
+# do unidade_aritmetica.do 
+# Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+# -- Compiling module unidade_aritmetica
+# 
+# Top level modules:
+# 	unidade_aritmetica
+# Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+# -- Compiling module unidade_aritmetica_vlg_sample_tst
+# -- Compiling module unidade_aritmetica_vlg_check_tst
+# -- Compiling module unidade_aritmetica_vlg_vec_tst
+# 
+# Top level modules:
+# 	unidade_aritmetica_vlg_vec_tst
+# vsim -L cycloneiii_ver -L altera_ver -L altera_mf_ver -L 220model_ver -L sgate -c -t 1ps -novopt work.unidade_aritmetica_vlg_vec_tst 
+# Loading work.unidade_aritmetica_vlg_vec_tst
+# Loading work.unidade_aritmetica
+# Loading cycloneiii_ver.cycloneiii_lcell_comb
+# Loading cycloneiii_ver.cycloneiii_io_ibuf
+# Loading cycloneiii_ver.cycloneiii_io_obuf
+# Loading work.unidade_aritmetica_vlg_sample_tst
+# Loading work.unidade_aritmetica_vlg_check_tst
+# Simulation passed !
+# ** Note: $finish    : unidade_aritmetica.vt(205)
+#    Time: 1 us  Iteration: 0  Instance: /unidade_aritmetica_vlg_vec_tst/tb_out
